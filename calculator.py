@@ -17,7 +17,7 @@ def CircleArea(r):
 		return 3.14 * r * r
 
 	else:
-		return "NaN2"
+		return "Error"
 
 def main ():
 	while True:
